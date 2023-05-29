@@ -22,8 +22,8 @@ This project explores various aspects of requirements of a website for hotel and
 The main objective of the entire activity is to create a website for hotel information.<br>
 
 •	Display different rooms available <br>
-•	Book hotel room <br>
-•	Show hotel location <br>
+•   Travel places <br>
+•	Show travel location <br>
 •	Provide information on hotel services <br>
 •	Finally compute the bill etc <br>
 •	Packages available <br>
