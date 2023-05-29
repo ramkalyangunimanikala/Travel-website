@@ -3,7 +3,7 @@ Responsive Travel website frontend
 # Travelwebsite
 Responsive Travel website frontend
 Website for hotel built on HTML, CSS and JavaScript <br>
-Checkout Demo [Here](http://127.0.0.1:5500/Travel/about.html)
+Checkout Demo [Here](https://ramkalyangunimanikala.github.io/Travel-website/)
 
 ### ABSTRACT
 
